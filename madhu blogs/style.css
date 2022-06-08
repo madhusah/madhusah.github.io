@@ -10,12 +10,12 @@ h1{
 a{
     font-size: 15px;
     text-align: center;
-    color: black;
+    color: rgb(29, 12, 179);
 }
 h3{
     text-align: center;
-    background-color: blue;
-    height: 300px;
-    width: 1400px;
+    background-color:rgb(105, 192, 233);
+    height: 700px;
+    width: 1709px;
 
 }
